@@ -1,3 +1,6 @@
+python demos/demo_reconstruct.py -i TestSamples/examples --saveDepth True --saveObj True
+
+
 # DECA: Detailed Expression Capture and Animation (SIGGRAPH2021)
 
 <p align="center"> 
